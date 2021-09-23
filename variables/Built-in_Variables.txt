@@ -1,0 +1,3 @@
+It includes all the variables that get loaded when the python shell starts. 
+For Example, We do not need to import functions such as print(). 
+These variable does not require to be declared explicitly as they have already been defined within the programming language.
